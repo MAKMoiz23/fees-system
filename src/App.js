@@ -17,7 +17,7 @@ function App() {
           <main className="content">
             <Topbar setIsSidebar={setIsSidebar} />
             <Routes>
-              {/* <Route path="/Student" element={<Student />} /> */}
+              {/* <Route path="/Student" element={<Student />} /> */ }
             </Routes>
           </main>
         </div>
